@@ -69,27 +69,32 @@
         "first_name": "Maurita",
         "img": "https://lh3.googleusercontent.com/proxy/iiuC68gRgqZLGLZBVDdyO7A7zHjGy5CimxkhZhqLo4iovHdIQSQhkMrLz_C4XEBDS9lgGSnvuyY9d8BQ8k8k01-CXvrhuYuc7UtXLCAxXlzB08CZu1IeRMZyUBfcqayZMytC0BA0XmWWDxOeRwQ",
         "car-model": "Yukon",
-        "key": "63730-222"
+        "key": "63730-222",
+        "details": "The Land Rover Range Rover (generally known simply as the Range Rover) is a 4x4 motor car produced by Land Rover, a marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and is now in its fourth generation. Additional models have been launched under the Range Rover name, including the Range Rover Sport, Range Rover Evoque, and Range Rover Velar."
     },
     {
         "id": 10,
         "first_name": "Odelinda",
         "img": "https://purepng.com/public/uploads/large/purepng.com-audiaudicarluxurious-carprofessional-carwhite-audired-audi-1701527409329eg09e.png",
         "car-model": "330",
-        "key": "49349-781"
+        "key": "49349-781",
+
+        "details": "Mercedes-Benz, commonly referred to as Mercedes, is a German automotive luxury brand headquartered in Stuttgart, Baden-Württemberg, Germany. Mercedes-Benz produces luxury vehicles and commercial vehicles. The first Mercedes-Benz brand name vehicles were produced in 1926. Wikipedia Founder: Karl Benz Founded: 1926 Headquarters: Stuttgart, Germany."
     },
     {
         "id": 11,
         "first_name": "Anne-marie",
         "img": "https://www.drivespark.com/car-image/640x480x100/car/8353394-audi_a3.jpg",
         "car-model": "Ranger",
-        "key": "55154-6187"
+        "key": "55154-6187",
+        "details": "The Land Rover Range Rover (generally known simply as the Range Rover) is a 4x4 motor car produced by Land Rover, a marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and is now in its fourth generation. Additional models have been launched under the Range Rover name, including the Range Rover Sport, Range Rover Evoque, and Range Rover Velar."
     },
     {
         "id": 12,
         "first_name": "Udall",
         "img": "https://www.drivespark.com/car-image/640x480x100/car/28524280-audi_q2.jpg",
         "car-model": "Lanos",
-        "key": "63868-133"
+        "key": "63868-133",
+        "details": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. Wikipedia Founder: Kiichiro Toyoda Founded: August 28, 1937, Japan Headquarters: Toyota, Aichi, Japan Stock price: 7203 (TYO) ¥1,967 -33.00 (-1.65%) Oct 1, 3:00 PM GMT+9 - Disclaimer Subsidiaries: Lexus, Daihatsu, Subaru Corporation, MORE Record label founded: Scion Audio/Visual Parent organization: Toyota Group"
     }
 ]
