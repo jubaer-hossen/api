@@ -4,56 +4,107 @@
         "first_name": "Nelly",
         "img": "https://img.freepik.com/free-psd/three-dimensional-image-car_53876-1716.jpg?size=626&ext=jpg",
         "car-model": "Dakota",
-        "key": "0268-6745"
+        "key": "0268-6745",
+
+        "details": "Mercedes-Benz, commonly referred to as Mercedes, is a German automotive luxury brand headquartered in Stuttgart, Baden-Württemberg, Germany. Mercedes-Benz produces luxury vehicles and commercial vehicles. The first Mercedes-Benz brand name vehicles were produced in 1926. Wikipedia
+        Founder: Karl Benz
+        Founded: 1926
+        Headquarters: Stuttgart, Germany.",
+
+        
+
     },
     {
         "id": 2,
         "first_name": "Pedro",
         "img": "https://www.teahub.io/photos/full/155-1557224_awesome-cars-background.jpg",
         "car-model": "Range Rover Evoque",
-        "key": "0409-1120"
+        "key": "0409-1120",
+        "details": "Automobili Lamborghini S.p.A. is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese. The company is owned by the Volkswagen Group through its subsidiary Audi. Wikipedia
+        Founder: Ferruccio Lamborghini
+        Founded: May 1963, Sant'Agata Bolognese, Italy
+        CEO: Stephan Winkelmann (Dec 1, 2020–)
+        Headquarters: Sant'Agata Bolognese, Italy"
     },
     {
         "id": 3,
         "first_name": "Jordan",
         "img": "https://pngimg.com/uploads/mercedes/mercedes_PNG80135.png",
         "car-model": "Sentra",
-        "key": "68084-252"
+        "key": "68084-252",
+        "details": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. Wikipedia
+        Founded: March 7, 1916, Munich, Germany
+        Headquarters: Munich, Germany
+        Revenue: 98.99 billion EUR (2020)
+        Number of employees: 133,778 (2019)
+        Stock price: BMW (ETR) €83.83 +1.07 (+1.29%)"
+        
     },
     {
         "id": 4,
         "first_name": "Josefa",
         "img": "https://cdn.pixabay.com/photo/2012/04/12/23/48/car-30990__340.png",
         "car-model": "Seville",
-        "key": "63148-558"
+        "key": "63148-558",
+        "details": "Audi AG is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. As a subsidiary of its parent company, the Volkswagen Group, Audi produces vehicles in nine production facilities worldwide. Wikipedia
+        Headquarters: Ingolstadt, Germany
+        Founder: August Horch
+        Founded: July 16, 1909, Zwickau, Germany
+        Revenue: 55.68 billion EUR (2019)
+        Number of employees: 90,783 (12/2019)
+        Subsidiaries: Lamborghini, Audi Sport GmbH, Ducati, MORE"
     },
     {
         "id": 5,
         "first_name": "Noni",
         "img": "https://media.istockphoto.com/photos/generic-red-suv-on-a-white-background-side-view-picture-id1157655660?k=20&m=1157655660&s=612x612&w=0&h=WOtAthbmJ9iG1zbKo4kNUsAGMe6-xM-E7a8TMxb5xmk=",
         "car-model": "Focus",
-        "key": "54868-4464"
+        "key": "54868-4464",
+        "details": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year. Wikipedia
+        Founder: Kiichiro Toyoda
+        Founded: August 28, 1937, Japan
+        Headquarters: Toyota, Aichi, Japan
+        Stock price: 7203 (TYO) ¥1,967 -33.00 (-1.65%)
+        Oct 1, 3:00 PM GMT+9 - Disclaimer
+        Subsidiaries: Lexus, Daihatsu, Subaru Corporation, MORE
+        Record label founded: Scion Audio/Visual
+        Parent organization: Toyota Group"
     },
     {
         "id": 6,
         "first_name": "Shela",
         "img": "https://media.istockphoto.com/photos/illustration-of-generic-compact-car-perspective-view-picture-id1148853697?k=20&m=1148853697&s=612x612&w=0&h=x_IL5R5PF48fTZhuD-1gMHDqstoxyrUfRMH-Oet-7Mk=",
         "car-model": "S-Series",
-        "key": "13734-029"
+        "key": "13734-029",
+        "details": "The Land Rover Range Rover (generally known simply as the Range Rover) is a 4x4 motor car produced by Land Rover, a marque and sub-brand of Jaguar Land Rover. The Range Rover line was launched in 1970 by British Leyland and is now in its fourth generation.
+
+        Additional models have been launched under the Range Rover name, including the Range Rover Sport, Range Rover Evoque, and Range Rover Velar."
     },
     {
         "id": 7,
         "first_name": "Jorge",
         "img": "https://tequipment-finder.porsche.com/prod/pag/tequipment/TeqBildressourcenLive.nsf/5044711B2145A8E7C1258087002DC754/$file/718_Cayman.png",
         "car-model": "S2000",
-        "key": "68472-103"
+        "key": "68472-103",
+        "details": "Honda Motor Company, Ltd. (Japanese: 本田技研工業株式会社, Hepburn: Honda Giken Kōgyō KK, IPA: [honda] (About this soundlisten); /ˈhɒndə/; commonly simply known as Honda) is a Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment, headquartered in Minato, Tokyo, Japan.
+
+        Honda has been the world's largest motorcycle manufacturer since 1959,[2][3] reaching a production of 400 million by the end of 2019,[4] as well as the world's largest manufacturer of internal combustion engines measured by volume, producing more than 14 million internal combustion engines each year.[5] Honda became the second-largest Japanese automobile manufacturer in 2001.[6][7] Honda was the eighth largest automobile manufacturer in the world in 2015.[8]
+        
+        Honda was the first Japanese automobile manufacturer to release a dedicated luxury brand, Acura, in 1986. Aside from their core automobile and motorcycle businesses, Honda also manufactures garden equipment, marine engines, personal watercraft and power generators, and other products. Since 1986, Honda has been involved with artificial intelligence/robotics research and released their ASIMO robot in 2000."
     },
     {
         "id": 8,
         "first_name": "Cristiano",
         "img": "https://us.123rf.com/450wm/rawpixel/rawpixel1403/rawpixel140300102/26814212-luxury-suv-3d-car.jpg?ver=6",
         "car-model": "Allroad",
-        "key": "11822-0452"
+        "key": "11822-0452",
+        "details": "Rolls-Royce Motor Cars Limited is a British luxury automobile maker. Rolls-Royce Motor Cars Limited operates from purpose-built administrative and production facilities opened in 2003 across from the historic Goodwood Circuit in Goodwood, West Sussex, England, United Kingdom. Wikipedia
+        Number of employees: 1,300 (2014)
+        Founded: 1904
+        CEO: Torsten Müller-Ötvös (Mar 2010–)
+        Headquarters: Westhampnett, United Kingdom
+        Parent organization: Bayerische Motoren Werke AG
+        Founders: Henry Royce, Charles Rolls"
     },
     {
         "id": 9,
